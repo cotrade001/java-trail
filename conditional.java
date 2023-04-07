@@ -8,5 +8,9 @@ public class conditional {
             System.out.println("found ans- " +value);
         }
 
+        if (value %5 == 0 || value %3 ==0){
+            System.out.println("found ans- " +value);
+        }
+
     }
 }
